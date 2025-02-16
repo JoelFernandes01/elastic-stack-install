@@ -9,7 +9,7 @@ Pelo menos 2 núcleos x 2 Sockets de CPU e 8 GB de RAM para um desempenho bom/ra
 
 Update da distribuição e logo em seguida, instale o pacote apt-transport-https para acessar o repositório via HTTPS.
 ```
-sudo apt update -y</br>
+sudo apt update -y
 ```
 ![Descrição da imagem](/pictures/update.PNG)
 ```
